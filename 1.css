@@ -1,0 +1,43 @@
+nav{
+    background-color: red;
+    position: sticky ;
+    top: 0;
+    height: 80px;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: left;
+    color: white;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+a{
+    display: inline-block;
+    padding: 25px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-align: center;
+    position: relative;
+    bottom: 60px;
+    left: 700px;
+}
+
+.b{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    height:0px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+    padding-top: 7px;
+}
+
+a:hover{
+    color: rgb(0, 0, 0);
+}
+.b:hover{
+    color: rgb(154, 154, 154);
+}
